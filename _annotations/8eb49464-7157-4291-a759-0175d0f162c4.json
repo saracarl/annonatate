@@ -1,0 +1,34 @@
+---
+canvas: "https://cdm17313.contentdm.oclc.org/digital/iiif/mdah/567/canvas/c0"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "New Orleans",
+            "purpose": "describing",
+            "creator": {
+                "id": "saracarl",
+                "name": "Sara Brumfield"
+            },
+            "created": "2021-06-22T21:42:56.198Z",
+            "modified": "2021-06-22T21:43:12.563Z"
+        }
+    ],
+    "target": {
+        "source": "https://cdm17313.contentdm.oclc.org/digital/iiif/mdah/567/canvas/c0",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:871.3936157226562,171.82130432128906,530.2075805664062,130.42539978027344"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://cdm17313.contentdm.oclc.org/iiif/info/mdah/569/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/8eb49464-7157-4291-a759-0175d0f162c4.json"
+}
